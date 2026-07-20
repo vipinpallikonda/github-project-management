@@ -94,3 +94,39 @@ GitHub: https://github.com/vipinpallikonda
 - Maven 3.8+
 - Git
 - VS Code
+
+## 📸 Project Screenshots
+
+### Repository
+
+![Repository](screenshots/repository-home.png)
+
+---
+
+### README
+
+![README](screenshots/readme.png)
+
+---
+
+### Pull Request
+
+![Pull Request](screenshots/pull-request.png)
+
+---
+
+### Project Board
+
+![Project Board](screenshots/project-board.png)
+
+---
+
+### Issues
+
+![Issues](screenshots/issues.png)
+
+---
+
+### Release
+
+![Release](screenshots/release-v1.0.png)
