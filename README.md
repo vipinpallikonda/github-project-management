@@ -87,3 +87,10 @@ GitHub: https://github.com/vipinpallikonda
 - Issue Templates
 - Automated Testing
 - Security Scanning
+
+## Prerequisites
+
+- Java 17 or later
+- Maven 3.8+
+- Git
+- VS Code
