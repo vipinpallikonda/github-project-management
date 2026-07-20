@@ -78,3 +78,19 @@ mvn package
 **Vipin Pallikonda**
 
 GitHub: https://github.com/vipinpallikonda
+
+## Future Enhancements
+
+- GitHub Actions CI/CD
+- Branch Protection Rules
+- Pull Request Templates
+- Issue Templates
+- Automated Testing
+- Security Scanning
+
+## Prerequisites
+
+- Java 17 or later
+- Maven 3.8+
+- Git
+- VS Code

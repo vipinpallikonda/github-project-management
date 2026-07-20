@@ -31,3 +31,16 @@
 - Close Issues
 - Labels
 - Milestones
+
+## Collaboration Module
+
+- Branching Strategy
+- Pull Requests
+- Code Reviews
+- Merge Process
+
+## Best Practices
+
+- Create feature branches for new work
+- Review code before merging
+- Write meaningful commit messages
