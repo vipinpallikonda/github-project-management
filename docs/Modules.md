@@ -31,3 +31,10 @@
 - Close Issues
 - Labels
 - Milestones
+
+## Collaboration Module
+
+- Branching Strategy
+- Pull Requests
+- Code Reviews
+- Merge Process
